@@ -1,8 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
-from itables import show, options
-options.maxBytes=0
 
 ### CAPE COD HITTING
 
