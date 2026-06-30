@@ -1,0 +1,53 @@
+[
+  {
+    "Player":"C Turner",
+    "Team":"Santa Barbara Foresters",
+    "G":"10",
+    "AB":"24",
+    "H":"7",
+    "RBI":"3",
+    "BB":"10",
+    "2B":"1",
+    "3B":"1",
+    "HR":0,
+    "SO":"10",
+    "AVG":".292",
+    "OBP":0.5,
+    "SLG":0.417,
+    "OPS":0.917
+  },
+  {
+    "Player":"C Rutenbar",
+    "Team":"Santa Barbara Foresters",
+    "G":"12",
+    "AB":"42",
+    "H":"12",
+    "RBI":"3",
+    "BB":"11",
+    "2B":"4",
+    "3B":"1",
+    "HR":0,
+    "SO":"3",
+    "AVG":".286",
+    "OBP":0.444,
+    "SLG":0.429,
+    "OPS":0.873
+  },
+  {
+    "Player":"L Cornelison",
+    "Team":"Santa Barbara Foresters",
+    "G":"9",
+    "AB":"21",
+    "H":"4",
+    "RBI":"4",
+    "BB":"1",
+    "2B":"0",
+    "3B":"1",
+    "HR":"0",
+    "SO":"9",
+    "AVG":".190",
+    "OBP":0.227,
+    "SLG":0.286,
+    "OPS":0.513
+  }
+]

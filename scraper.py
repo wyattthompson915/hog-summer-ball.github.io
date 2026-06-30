@@ -60,7 +60,6 @@ arkansas_players = [
     "Jackson Kircher",
     "Peyton Lee",
     "Jordan Martin",
-    "Alexander Peck",
     "C Turner",
     "Nolan Traeger",
     "C Rutenbar"
