@@ -14,15 +14,6 @@
     "AVG":".320",
     "OBP":0.477,
     "SLG":0.44,
-    "PA":null,
-    "R":null,
-    "TB":null,
-    "HBP":null,
-    "SF":null,
-    "SH":null,
-    "HDP":null,
-    "SB":null,
-    "CS":null,
     "OPS":0.917
   },
   {
@@ -40,15 +31,6 @@
     "AVG":".192",
     "OBP":0.222,
     "SLG":0.308,
-    "PA":null,
-    "R":null,
-    "TB":null,
-    "HBP":null,
-    "SF":null,
-    "SH":null,
-    "HDP":null,
-    "SB":null,
-    "CS":null,
     "OPS":0.53
   },
   {
@@ -66,15 +48,6 @@
     "AVG":".292",
     "OBP":0.5,
     "SLG":0.417,
-    "PA":"35",
-    "R":"10",
-    "TB":"10",
-    "HBP":"0",
-    "SF":"0",
-    "SH":"1",
-    "HDP":"0",
-    "SB":"3",
-    "CS":"0",
     "OPS":0.917
   }
 ]
