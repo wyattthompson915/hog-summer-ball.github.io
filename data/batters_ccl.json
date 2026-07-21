@@ -2,19 +2,19 @@
   {
     "Player":"C Rutenbar",
     "Team":"Santa Barbara Foresters",
-    "G":"21",
-    "AB":"85",
-    "H":"29",
+    "G":"22",
+    "AB":"90",
+    "H":"32",
     "RBI":"9",
     "BB":"15",
-    "2B":"7",
+    "2B":"8",
     "3B":"1",
     "HR":0,
     "SO":"9",
-    "AVG":".341",
-    "OBP":0.451,
-    "SLG":0.447,
-    "OPS":0.898
+    "AVG":".356",
+    "OBP":0.458,
+    "SLG":0.467,
+    "OPS":0.925
   },
   {
     "Player":"C Turner",
@@ -36,7 +36,7 @@
   {
     "Player":"L Cornelison",
     "Team":"Santa Barbara Foresters",
-    "G":"16",
+    "G":"17",
     "AB":"35",
     "H":"8",
     "RBI":"8",
